@@ -344,4 +344,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     ims \
     shutdownlistener \
-    imscmlibrary
+    imscmlibrary \
+    Ds \
+    DsUI \
+    dolby_ds
